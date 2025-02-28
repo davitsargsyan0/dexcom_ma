@@ -44,7 +44,7 @@ pip install numpy pandas scipy matplotlib
 ### **Running the Analysis**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/dexcom-stelo-bass-model.git
+   git clone https://github.com/davitsargsyan0/dexcom_ma.git
    ```
 2. Navigate to the project folder:
    ```bash
@@ -61,17 +61,4 @@ pip install numpy pandas scipy matplotlib
 - **2027-2031**: Rapid growth as awareness increases.
 - **2032-2035**: Market saturation with late adopters joining.
 
-## **Future Work**
-- Expand predictions for **global diffusion**.
-- Incorporate **real-world sales data** post-2024 for model refinements.
-- Analyze **insurance reimbursement effects** on adoption.
-
-## **References**
-- [Dexcom Stelo FDA Approval](https://investors.dexcom.com/news/news-details/2024/Stelo-by-Dexcom-First-Glucose-Biosensor-to-be-Cleared-by-FDA-as-Over-the-Counter/default.aspx)
-- [TIME Best Inventions 2024](https://time.com/best-inventions-2024/)
-- [Statista Diabetes Market Reports](https://www.statista.com/)
-
----
-📌 **Author**: Your Name  
-📅 **Date**: March 2025
 
